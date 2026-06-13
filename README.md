@@ -72,3 +72,21 @@ Using GitHub for version control
 Deploying websites with GitHub Pages
 
 # Live Demo
+https://sathvikachandramohan.github.io/NayePankh-Website-Prototype/
+
+# Developer
+Sathvika Apparaju
+
+Web Development Internship Candidate
+
+This project was independently designed and developed as part of a practical internship assignment to demonstrate foundational front-end web development skills.
+
+# Future Enhancements
+Multi-page navigation
+Event showcase section
+Donation page
+Social media integration
+Interactive animations
+Backend support for form submissions
+Volunteer management dashboard
+
