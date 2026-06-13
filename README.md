@@ -10,6 +10,7 @@ Promote volunteer participation
 Showcase the foundation's impact
 Create a clean and user-friendly experience
 Develop a responsive website accessible across devices
+
 # Features
 1. Hero Section
 
@@ -38,9 +39,13 @@ Optimized for desktops, tablets, and mobile devices.
 # Technologies Used
 
 HTML5
+
 CSS3
+
 Visual Studio Code
+
 GitHub
+
 GitHub Pages
 
 # Project Structure
@@ -65,3 +70,5 @@ Working with images and assets
 Building responsive layouts
 Using GitHub for version control
 Deploying websites with GitHub Pages
+
+# Live Demo
