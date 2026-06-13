@@ -16,23 +16,23 @@ Develop a responsive website accessible across devices
 
 A visually appealing landing section highlighting the mission and vision of the foundation.
 
-📚 About Us Section
+2. About Us Section
 
 Provides an overview of the organization and its purpose.
 
-📊 Impact Statistics
+3. Impact Statistics
 
 Displays key metrics to demonstrate the foundation's contribution and reach.
 
-🤝 Volunteer Registration Form
+4.Volunteer Registration Form
 
 Allows visitors to express their interest in becoming volunteers.
 
-📞 Contact Footer
+5. Contact Footer
 
 Contains essential contact information and website branding.
 
-📱 Responsive Design
+6. Responsive Design
 
 Optimized for desktops, tablets, and mobile devices.
 
