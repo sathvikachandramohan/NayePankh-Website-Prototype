@@ -83,10 +83,16 @@ This project was independently designed and developed as part of a practical int
 
 # Future Enhancements
 Multi-page navigation
+
 Event showcase section
+
 Donation page
+
 Social media integration
+
 Interactive animations
+
 Backend support for form submissions
+
 Volunteer management dashboard
 
