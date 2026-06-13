@@ -75,7 +75,7 @@ Deploying websites with GitHub Pages
 https://sathvikachandramohan.github.io/NayePankh-Website-Prototype/
 
 # Developer
-Sathvika Apparaju
+Sathvika chandramohan
 
 Web Development Internship Candidate
 
